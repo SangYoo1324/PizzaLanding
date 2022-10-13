@@ -1,0 +1,16 @@
+
+section.App::after{
+    width:100%;
+    height:300px;
+    opacity: 1;
+    content: "";
+    background: url(/PizzaDemo/images/rr-bg.jpg);
+   
+}
+
+section.App h3
+{
+   
+    font-size: 2rem;
+    opacity: 1;
+}
